@@ -3,10 +3,10 @@
 	import '../app.css';
 </script>
 
-<Header />
+<header></header>
 
 <main>
-	<slot />
+	<slot></slot>
 </main>
 
 <footer>
